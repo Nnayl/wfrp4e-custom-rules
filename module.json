@@ -1,0 +1,23 @@
+{
+  "id": "wfrp4e-custom-rules",
+  "title": "WFRP4e - Règles Personnalisées",
+  "description": "Compilation de règles personnalisées pour WFRP4",
+  "version": "1.0.1",
+  "author": [
+    {
+      "id": "Nnayl"
+    }
+  ],
+  "systems": ["wfrp4e"],
+  "compatibility" : {
+    "minimum": 9,
+    "verified": "10",
+    "maximum": "10"
+  },
+  "esmodules": [
+    "scripts/init.js"
+  ],
+  "url": "https://github.com/Nnayl/wfrp4e-custom-rules",
+  "manifest": "https://raw.githubusercontent.com/Nnayl/wfrp4e-custom-rules/master/module.json",
+  "download": "https://github.com/Nnayl/wfrp4e-custom-rules/archive/refs/tags/1.0.0.zip"
+}
